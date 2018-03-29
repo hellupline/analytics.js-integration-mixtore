@@ -1,12 +1,11 @@
 {
-  "name": "@segment/analytics.js-integration-segmentio",
-  "description": "The Segmentio analytics.js integration.",
+  "name": "@mixtore/analytics.js-integration-mixtore",
+  "description": "The Mixtore analytics.js integration.",
   "version": "3.6.0",
   "keywords": [
     "analytics.js",
     "analytics.js-integration",
-    "segment",
-    "segmentio"
+    "mixtore"
   ],
   "main": "lib/index.js",
   "scripts": {
@@ -14,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/segment-integrations/analytics.js-integration-segmentio.git"
+    "url": "git+https://github.com/hellupline/analytics.js-integration-mixtore.git"
   },
-  "author": "Segment <friends@segment.com>",
+  "author": "Renan Traba <renan.traba@ebanx.com>",
   "license": "SEE LICENSE IN LICENSE",
   "bugs": {
-    "url": "https://github.com/segment-integrations/analytics.js-integration-segmentio/issues"
+    "url": "https://github.com/hellupline/analytics.js-integration-mixtore/issues"
   },
-  "homepage": "https://github.com/segment-integrations/analytics.js-integration-segmentio#readme",
+  "homepage": "https://github.com/hellupline/analytics.js-integration-mixtore#readme",
   "dependencies": {
     "@ndhoule/extend": "^2.0.0",
     "@ndhoule/keys": "^2.0.0",
